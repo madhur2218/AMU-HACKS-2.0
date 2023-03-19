@@ -1,0 +1,4 @@
+PPT
+- difficulties in diagnosis of various pox diseases
+- statistics for pox diseases (no, of ppl affected, countries, basic eda)
+- describe the 
